@@ -22,4 +22,19 @@ I'm a **Flutter Software Engineer** based in Cairo, Egypt. I specialize in archi
 | **Safi Mart** | Developer | Full E-commerce, Secure Cart, Hive Local Storage. |
 
 ---
+
+### 📫 Let's Connect & Collaborate
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahmoudmohamed515/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:mahmoudelmaghraby515@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wa.me/+201156521009" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+</div>
 [![](https://visitcount.itsvg.in/api?id=MahmoudElmaghraby&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/MahmoudElmaghraby)
