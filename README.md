@@ -58,7 +58,7 @@ Check out my repositories for code samples:
 I'm always open to discussing new projects, creative ideas, or opportunities.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahmoudmohamed515/" target="_blank">
+  <a href="https://www.linkedin.com/in/elmaghraby515/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:mahmoudelmaghraby515@gmail.com">
@@ -67,6 +67,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 </div>
 
 ---
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=MahmoudElmaghraby&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
