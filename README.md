@@ -34,16 +34,6 @@ These are real-world applications I architected and deployed for **Sadara Invest
 
 ---
 
-### 🔭 Open Source & POCs
-
-Check out my repositories for code samples:
-
-* **[PayPal Integration POC](https://github.com/MahmoudElmaghraby/Flutter-PayPal-Payment-POC):** End-to-end payment flow handling success/failure states.
-* **[News App](https://github.com/MahmoudElmaghraby/Flutter-News-Clean-Architecture):** Data-driven app using **Bloc**, **Dio**, and **Shared Preferences**.
-* **[To-Do App](https://github.com/MahmoudElmaghraby/ToDo-App-Bloc-Sqflite):** Task management with full **CRUD** and **SQFLITE** database.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
